@@ -9,6 +9,4 @@ Fetures at the moment
   
 Needs To be Fixed
   *Images from External Sites
-  *Menus (When i remove one it all does not work)
-  *Fix Input font size
   *Add a menu for discord emoji's
