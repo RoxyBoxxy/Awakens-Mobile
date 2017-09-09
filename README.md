@@ -1,4 +1,7 @@
 # Awakens-Mobile
+
+!https://travis-ci.org/krynomore/Awakens-Mobile.svg?branch=master!:https://travis-ci.org/krynomore/Awakens-Mobile
+
 A Android app for https://awakens.me and http://jesse78.xyz
 
 Get it from the Play Store https://play.google.com/store/apps/details?id=com.awakens.me
