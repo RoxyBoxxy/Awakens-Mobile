@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.awakens.me" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <icon src="www/img/logo.png" />
+    <name>Awakens</name>
+    <description>Awakens's mobile client. Based off seafour's app.</description>
+    <author email="squires1993@gmail.com" href="http://awakens.me/">
+        Landon Powell - SeaFour Dev
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>
