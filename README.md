@@ -1,6 +1,8 @@
 # Awakens-Mobile
 A Android app for https://awakens.me and http://jesse78.xyz
 
+Get it from the Play Store https://play.google.com/store/apps/details?id=com.awakens.me
+
 Built with Apache Cordova
 
 This app is still in beta, And things are missing
