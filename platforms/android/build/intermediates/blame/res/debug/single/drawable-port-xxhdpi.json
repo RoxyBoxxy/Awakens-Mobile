@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/rox/Awakens-Mobile/platforms/android/build/intermediates/res/merged/debug/drawable-port-xxhdpi/screen.png",
+        "source": "/home/rox/Awakens-Mobile/platforms/android/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
         "merged": "/home/rox/Documents/Awakens-Mobile/platforms/android/build/intermediates/res/merged/debug/drawable-port-xxhdpi/screen.png",
         "source": "/home/rox/Documents/Awakens-Mobile/platforms/android/res/drawable-port-xxhdpi/screen.png"
     }

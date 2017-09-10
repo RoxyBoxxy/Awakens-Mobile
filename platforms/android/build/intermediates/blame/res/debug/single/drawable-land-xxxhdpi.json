@@ -2,5 +2,9 @@
     {
         "merged": "/home/rox/Documents/Awakens-Mobile/platforms/android/build/intermediates/res/merged/debug/drawable-land-xxxhdpi/screen.png",
         "source": "/home/rox/Documents/Awakens-Mobile/platforms/android/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/rox/Awakens-Mobile/platforms/android/build/intermediates/res/merged/debug/drawable-land-xxxhdpi/screen.png",
+        "source": "/home/rox/Awakens-Mobile/platforms/android/res/drawable-land-xxxhdpi/screen.png"
     }
 ]
