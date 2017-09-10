@@ -1,0 +1,1 @@
+{"name":"com.awakens.me","version":"1.0.0","title":"Awakens","hooks":{"cordova":{"desktop":"cordova.desktop","apparmor":"apparmor.json"}},"framework":"ubuntu-sdk-13.10","maintainer":"Landon Powell - SeaFour Dev <squires1993@gmail.com>","architecture":"amd64","description":"Awakens's mobile client. Based off seafour's app."}
