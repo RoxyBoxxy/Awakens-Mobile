@@ -3,24 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/home/rox/Documents/Awakens-Mobile/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="ebc288550239d8e99cc99779a27498de8c42349a">
-        <dex dex="/home/rox/Documents/Awakens-Mobile/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_c86138b8010f2e85235cf5a52a990b4c9c8606bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rox/Documents/Awakens-Mobile/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/release/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="1f2d858aca3c7c0e6679e309f3a3f3b9e84c0c07">
-        <dex dex="/home/rox/Documents/Awakens-Mobile/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-6.2.3-release_9cc28eb26d127b8da4888d4db8c5ed02c191ef07.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/rox/Awakens-Mobile/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
         jumboMode="false"
         optimize="true"

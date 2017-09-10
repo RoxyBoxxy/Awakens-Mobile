@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.awakens.me" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.awakens.me" version="1.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Awakens</name>
     <description>
-        Awakens's mobile client. Based off seafour's app.
+        Awakens's mobile client..
     </description>
     <author email="squires1993@gmail.com" href="http://awakens.me/">
-        Landon Powell - SeaFour Dev
+        Roxy Boxxy - Dev of somthing
     </author>
     <content src="index.html" />
     <access origin="*" />
