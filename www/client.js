@@ -147,7 +147,7 @@ var messageBuilder = {
             if (hat && hat !== 'none') {
                 hatSpan = document.createElement('div');
                 hatSpan.className = 'hat';
-                hatSpan.style.backgroundImage = "url('/hats/" + hat + "')";
+                hatSpan.style.backgroundImage = "url('hats/" + hat + "')";
                 hatSpan.style.backgroundPosition = "center";
                 hatSpan.style.backgroundRepeat = "no-repeat";
                 hatSpan.style.backgroundSize = "30px 29px";
